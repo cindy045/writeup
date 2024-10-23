@@ -5,3 +5,4 @@ This repository contains detailed reports on mobile application security assessm
 - Bypass Rooted Device and Emulator Detection
 - Weak Authentication and Authorization
 - Bypass SSL Pinning
+- Dynamic Analysis
